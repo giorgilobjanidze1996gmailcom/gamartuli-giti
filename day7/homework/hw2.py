@@ -1,0 +1,2 @@
+razmis_wevrebi=["guriko","tinatin zuzadze","lukas vishtekaliuki","giorgi lobzhanidze","luka atabegashvili","gio abuladze","tekla papava","rezi nepharidze","davit chilashvili","gio kacitadze","mirian gelashvili","rati murghulia","nino solomonia","beqa giorgobiani","beqa berashvili","nini goglichadze","giorgi chxetiani","temo labadze","giorgi mgeladze","temuri solomnishvili","demetre kharatishvili","davit demuradze","salome miladze"]
+print(razmis_wevrebi[1:22])
